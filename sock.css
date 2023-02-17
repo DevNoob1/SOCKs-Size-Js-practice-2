@@ -1,0 +1,65 @@
+/* .main {
+    height: 100vh;
+    width: 100vh;
+    
+    flex: center;
+    flex-di  rection: row;
+} */
+
+body {
+    background-image: url('https://i.pinimg.com/originals/a5/e0/1d/a5e01db694b47cd07018813ce821a4e1.png');
+    background-repeat: center center;
+    background-size: 10.6rem;
+    opacity: 0.85;
+}
+
+
+
+.content {
+    height: 100%;
+    position: fixed;
+    background-color: #ffffff;
+
+    width: 100%;
+    flex: space-around;
+}
+
+.titli {
+    padding-top: 0;
+    font-size: 5em;
+    font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+    text-align: center;
+
+}
+
+
+
+.stuff {
+    margin-left: 1.5%;
+    margin-right: 3%;
+    background-color: rgb(15, 14, 14, 1);
+    text-align: center;
+    font-weight: bold;
+    font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
+    font-size: 2rem;
+    color: rgb(255, 230, 0);
+}
+
+.footer {
+    padding-left: 48%;
+}
+
+
+
+.calculation {
+    /* text-align: inline; */
+    margin-left: 35%;
+    padding-left: 0%;
+    width: 30%;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(15, 14, 14, 1);
+    color: rgb(255, 230, 0);
+
+
+}
